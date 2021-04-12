@@ -1,0 +1,15 @@
+# https://www.toptal.com/developers/gitignore
+# Remove previous ipynb_checkpoints: git rm -r .ipynb_checkpoints/
+
+# Arquivos específicos
+config.py
+.ipynb_checkpoints
+desktop.ini
+
+# Pastas
+data/
+dir_to_ignore/
+
+# Extensões de arquivos
+*.csv
+*.parquet
